@@ -2,3 +2,4 @@
 
 ** тук ще правим :**
 * промени 
+*druga korekciq prez brauzer
